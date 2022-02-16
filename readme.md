@@ -2,7 +2,7 @@
 ## Data-Based Health Interventions for COVID-19 Infection Reduction
 
 **Team Members:**
-Christian Clark, Alexis Frietas, Parth Iramani, Rami Nasrallah, Brandon Reznicek
+Christian Clark, Alexis Freitas, Parth Iramani, Rami Nasrallah, Brandon Reznicek
 
 ### Introduction
 
